@@ -3,6 +3,8 @@ Shopping Cart Template
 
 Check the Shopping cart web template for the Webix UI library.
 
+[Shopping Cart live demo](https://webix-hub.github.io/shopping-cart-template/dist/es5/index.html).
+
 Use this template as a part of a marketplace solution with the following features:
 
 - List of purchases with thumbnails, description, amount and price;
