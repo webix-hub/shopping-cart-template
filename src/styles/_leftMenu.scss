@@ -1,0 +1,22 @@
+.left-menu {
+	.webix_list_item {		
+		line-height: 40px;
+		font-size: 15px;
+		&.webix_selected {
+			color: #1ca1c1;
+			font-weight: 500;
+			.webix_list_icon {
+				color: #1ca1c1;
+			}
+		}
+
+		.webix_list_icon {
+			margin-right: 10px;
+			margin-bottom: 2px;
+		}
+	}
+
+	.webix_context_spacer {
+		height: 15px;
+	}
+}
